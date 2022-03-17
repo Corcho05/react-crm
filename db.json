@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sebastián",
+      "empresa": "Isa",
+      "email": "sebastian.castiglioni@isaportal.uy",
+      "telefono": "098055214",
+      "notas": "afdsfsd",
+      "id": 1
+    }
+  ]
+}
